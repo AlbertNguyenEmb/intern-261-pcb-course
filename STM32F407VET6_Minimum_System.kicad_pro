@@ -710,7 +710,7 @@
         "uuid": "ee92e84a-722c-443a-8d04-d193c9464e89"
       }
     ],
-    "used_designators": "#PWR1-134,BZ1,C1-55,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-2,F_DBG_USB1,J1-14,JP1-15,L1-2,Q1-3,R1-52,SW1-5,U1-15,Y1-4",
+    "used_designators": "#PWR1-142,BZ1,C1-58,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-4,F_DBG_USB1,J1-14,JP1-15,L1-2,Q1-3,R1-61,SW1-5,U1-15,Y1-4",
     "variants": []
   },
   "sheets": [
