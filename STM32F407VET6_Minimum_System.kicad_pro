@@ -615,12 +615,78 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -710,7 +776,7 @@
         "uuid": "ee92e84a-722c-443a-8d04-d193c9464e89"
       }
     ],
-    "used_designators": "#PWR1-142,BZ1,C1-58,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-4,F_DBG_USB1,J1-14,JP1-15,L1-2,Q1-3,R1-61,SW1-5,U1-15,Y1-4",
+    "used_designators": "#FLG1-2,#PWR1-144,BZ1,C1-58,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-4,F_DBG_USB1,J1-16,JP1-15,L1-2,Q1-3,R1-63,SW1-5,U1-17,Y1-6",
     "variants": []
   },
   "sheets": [

@@ -3918,7 +3918,7 @@
 		(uuid "2aeb081e-a071-4a87-a84a-2483125616e7")
 	)
 	(junction
-		(at 59.69 113.03)
+		(at 60.96 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31e5fc53-4b46-4549-954d-e169c30d31ff")
@@ -3942,13 +3942,13 @@
 		(uuid "64182a82-8d89-4475-9858-b2b090962b08")
 	)
 	(junction
-		(at 40.64 95.25)
+		(at 41.91 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d74e0c4-59f3-478c-99ff-3ac861ab5971")
 	)
 	(junction
-		(at 76.2 95.25)
+		(at 77.47 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e983466-824d-49dd-b615-fd481a27686f")
@@ -4053,7 +4053,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 97.79) (xy 240.03 97.79)
+			(xy 231.14 92.71) (xy 240.03 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4163,7 +4163,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 92.71) (xy 236.22 95.25)
+			(xy 236.22 87.63) (xy 236.22 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4243,7 +4243,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 95.25) (xy 86.36 95.25)
+			(xy 68.58 91.44) (xy 87.63 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4253,7 +4253,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 95.25) (xy 40.64 95.25)
+			(xy 29.21 91.44) (xy 41.91 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4343,7 +4343,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 107.95) (xy 40.64 113.03)
+			(xy 41.91 104.14) (xy 41.91 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4373,7 +4373,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 102.87) (xy 59.69 113.03)
+			(xy 60.96 99.06) (xy 60.96 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4393,7 +4393,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 95.25) (xy 52.07 95.25)
+			(xy 41.91 91.44) (xy 53.34 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4403,7 +4403,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 100.33) (xy 240.03 100.33)
+			(xy 231.14 95.25) (xy 240.03 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4423,7 +4423,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 105.41) (xy 236.22 105.41)
+			(xy 231.14 100.33) (xy 236.22 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4463,7 +4463,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 100.33) (xy 40.64 95.25)
+			(xy 41.91 96.52) (xy 41.91 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4743,7 +4743,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 113.03) (xy 59.69 113.03)
+			(xy 41.91 109.22) (xy 60.96 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4763,7 +4763,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 113.03) (xy 76.2 113.03)
+			(xy 60.96 109.22) (xy 77.47 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4773,7 +4773,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 105.41) (xy 236.22 107.95)
+			(xy 236.22 100.33) (xy 236.22 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4783,7 +4783,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 113.03) (xy 76.2 107.95)
+			(xy 77.47 109.22) (xy 77.47 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4803,7 +4803,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 113.03) (xy 59.69 116.84)
+			(xy 60.96 109.22) (xy 60.96 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4823,7 +4823,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 102.87) (xy 240.03 102.87)
+			(xy 231.14 97.79) (xy 240.03 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4873,7 +4873,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 95.25) (xy 76.2 100.33)
+			(xy 77.47 91.44) (xy 77.47 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5053,7 +5053,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 95.25) (xy 236.22 95.25)
+			(xy 231.14 90.17) (xy 236.22 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5162,7 +5162,7 @@
 		(uuid "22fdf8dc-ac9f-42d4-b76e-d6824f87c438")
 	)
 	(label "F103_NRST"
-		(at 240.03 102.87 0)
+		(at 240.03 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5282,7 +5282,7 @@
 		(uuid "8adbdb77-7b54-49a0-9e8a-fdab14591c5f")
 	)
 	(label "F103_SWDIO"
-		(at 240.03 97.79 0)
+		(at 240.03 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5312,7 +5312,7 @@
 		(uuid "979e5b9b-9f6a-445f-a27f-596298bfac95")
 	)
 	(label "F103_SWCLK"
-		(at 240.03 100.33 0)
+		(at 240.03 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5342,7 +5342,7 @@
 		(uuid "af3f0aaa-712a-4927-a112-fb920e130852")
 	)
 	(label "+3V3_DBG"
-		(at 86.36 95.25 0)
+		(at 87.63 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5461,7 +5461,7 @@
 	)
 	(global_label "+5V_SYS"
 		(shape input)
-		(at 27.94 95.25 180)
+		(at 29.21 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5471,7 +5471,7 @@
 		)
 		(uuid "3b134c64-b532-46d7-9478-0b42b8427bf7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.6091 95.25 0)
+			(at 17.8791 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5687,7 +5687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "075247e9-aba0-4c68-8258-f01533dc8483")
-		(property "Reference" "C24"
+		(property "Reference" "C25"
 			(at 240.03 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5709,7 +5709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 237.1852 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -5751,7 +5751,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C24")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -5769,7 +5769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10288814-c021-499a-97c5-92029aeb213e")
-		(property "Reference" "Y2"
+		(property "Reference" "Y3"
 			(at 52.07 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5789,7 +5789,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-4H_Vertical"
 			(at 52.07 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5831,7 +5831,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "Y2")
+					(reference "Y3")
 					(unit 1)
 				)
 			)
@@ -5849,7 +5849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19a04bcb-d8a8-4840-8c4a-f5448acbf985")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 66.04 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -5909,7 +5909,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -5927,7 +5927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f37d564-e0f1-488d-bc9b-0509e02dd7b3")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR017"
 			(at 36.83 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5987,7 +5987,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR015")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6005,7 +6005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fbe7697-0fe7-4210-859f-f0a295d6f71c")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR021"
 			(at 77.47 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6065,7 +6065,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR019")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6103,7 +6103,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 83.82 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6164,7 +6164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2123a5b2-b671-47ae-bdb1-c1fe8322f8e3")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 251.46 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6186,7 +6186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 248.6152 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6228,7 +6228,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -6266,7 +6266,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 193.04 66.802 90)
 			(hide yes)
 			(show_name no)
@@ -6316,7 +6316,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 76.2 104.14 0)
+		(at 77.47 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6326,8 +6326,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3529ab75-2505-4423-85ad-a7dd2967ad23")
-		(property "Reference" "C19"
-			(at 80.01 102.8699 0)
+		(property "Reference" "C20"
+			(at 81.28 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6338,7 +6338,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 80.01 105.4099 0)
+			(at 81.28 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6348,8 +6348,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.1652 107.95 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 78.4352 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6360,7 +6360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 104.14 0)
+			(at 77.47 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6371,7 +6371,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 76.2 104.14 0)
+			(at 77.47 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6390,7 +6390,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C19")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -6398,7 +6398,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 226.06 100.33 0)
+		(at 226.06 95.25 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6409,7 +6409,7 @@
 		(dnp no)
 		(uuid "38a44809-da71-46b9-a383-3d628c3f0171")
 		(property "Reference" "J2"
-			(at 223.52 99.0599 0)
+			(at 223.52 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6420,7 +6420,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 223.52 101.5999 0)
+			(at 223.52 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6430,8 +6430,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 226.06 100.33 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+			(at 226.06 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6442,7 +6442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 100.33 0)
+			(at 226.06 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6453,7 +6453,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 226.06 100.33 0)
+			(at 226.06 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6489,7 +6489,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 40.64 104.14 0)
+		(at 41.91 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6499,8 +6499,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e030389-3bd4-4c14-a843-c94ad6f0fdbc")
-		(property "Reference" "C17"
-			(at 44.45 102.8699 0)
+		(property "Reference" "C18"
+			(at 45.72 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6511,7 +6511,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 44.45 105.4099 0)
+			(at 45.72 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6521,8 +6521,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.6052 107.95 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 42.8752 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6533,7 +6533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 104.14 0)
+			(at 41.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6544,7 +6544,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 40.64 104.14 0)
+			(at 41.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6563,7 +6563,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C17")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -6571,7 +6571,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 116.84 0)
+		(at 60.96 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6581,8 +6581,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55a7fd34-aaae-4e75-88be-0e0dfb81d5a6")
-		(property "Reference" "#PWR017"
-			(at 59.69 123.19 0)
+		(property "Reference" "#PWR019"
+			(at 60.96 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6593,7 +6593,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 121.92 0)
+			(at 60.96 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6603,7 +6603,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 116.84 0)
+			(at 60.96 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6614,7 +6614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 116.84 0)
+			(at 60.96 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6625,7 +6625,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 116.84 0)
+			(at 60.96 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6641,7 +6641,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6659,7 +6659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e5671cf-ffb5-4a52-9053-d4a483d3ac80")
-		(property "Reference" "C22"
+		(property "Reference" "C23"
 			(at 214.63 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6681,7 +6681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 211.7852 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6723,7 +6723,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C22")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -6962,7 +6962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6abeb188-87a3-415f-9805-bc72826e6c68")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR024"
 			(at 151.13 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -7022,7 +7022,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR021")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -7062,7 +7062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 70.612 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -7112,7 +7112,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 236.22 92.71 0)
+		(at 236.22 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7121,8 +7121,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "844115eb-2945-4299-b958-4cad6b1714bf")
-		(property "Reference" "#PWR026"
-			(at 236.22 96.52 0)
+		(property "Reference" "#PWR028"
+			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7133,7 +7133,7 @@
 			)
 		)
 		(property "Value" "+3V3_DBG"
-			(at 236.22 88.9 0)
+			(at 236.22 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7144,7 +7144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 92.71 0)
+			(at 236.22 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7155,7 +7155,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 92.71 0)
+			(at 236.22 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7166,7 +7166,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 236.22 92.71 0)
+			(at 236.22 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7182,7 +7182,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR026")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -7278,7 +7278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c0f05d2-9997-44d1-8501-eb6ff0a214ed")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR027"
 			(at 223.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7338,7 +7338,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR025")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -7356,7 +7356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93907578-b3cb-4b7a-8887-c4512397079a")
-		(property "Reference" "C18"
+		(property "Reference" "C19"
 			(at 69.85 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7378,7 +7378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 67.0052 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -7420,7 +7420,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C18")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -7438,7 +7438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "972cc141-9b72-4821-87fa-0bfe1be0b4cc")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 39.37 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -7498,7 +7498,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -7538,7 +7538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -7618,7 +7618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 234.95 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7668,7 +7668,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 107.95 0)
+		(at 236.22 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7678,8 +7678,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e7eb8bd-ce7a-4bc4-8c16-9332d6e15d65")
-		(property "Reference" "#PWR027"
-			(at 236.22 114.3 0)
+		(property "Reference" "#PWR029"
+			(at 236.22 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7690,7 +7690,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 236.22 113.03 0)
+			(at 236.22 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7700,7 +7700,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 107.95 0)
+			(at 236.22 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7711,7 +7711,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 107.95 0)
+			(at 236.22 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7722,7 +7722,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 107.95 0)
+			(at 236.22 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7738,7 +7738,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR027")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -7756,7 +7756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afce49fb-9b95-45e0-a139-a350b59582d9")
-		(property "Reference" "C23"
+		(property "Reference" "C24"
 			(at 227.33 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7778,7 +7778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 224.4852 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7820,7 +7820,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -7838,7 +7838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5975566-3346-47b1-9df6-eb737c074a46")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR016"
 			(at 29.21 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -7898,7 +7898,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR014")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -7938,7 +7938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 98.552 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -8020,7 +8020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 79.502 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -8080,7 +8080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfe85a64-0af2-4b96-9be1-64240eda567b")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 100.33 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8140,7 +8140,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -8158,7 +8158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da4f380b-45c7-4995-8dab-10d10a64ef66")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 264.16 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8180,7 +8180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 261.3152 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8222,7 +8222,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -8260,7 +8260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 234.95 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8340,7 +8340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7051x"
 			(at 40.64 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8445,7 +8445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcbe0892-3005-49e2-8f32-bfe743686ffc")
-		(property "Reference" "C21"
+		(property "Reference" "C22"
 			(at 200.66 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8467,7 +8467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 197.8152 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8509,7 +8509,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C21")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -8527,7 +8527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfa4acf7-5a4f-4718-9208-f5642b0919bd")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 43.18 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8549,7 +8549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 40.3352 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8591,7 +8591,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -8628,7 +8628,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 140.97 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -8688,7 +8688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e871622f-e0eb-45cb-a420-c7fbdbcfd71c")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 165.1 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8748,7 +8748,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8756,7 +8756,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AMS1117-3.3")
-		(at 59.69 95.25 0)
+		(at 60.96 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8767,7 +8767,7 @@
 		(fields_autoplaced yes)
 		(uuid "ecca0f26-7f0c-43da-abdf-730ee607f950")
 		(property "Reference" "U2"
-			(at 59.69 88.9 0)
+			(at 60.96 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8777,7 +8777,7 @@
 			)
 		)
 		(property "Value" "AMS1117-3.3"
-			(at 59.69 91.44 0)
+			(at 60.96 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8787,7 +8787,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 59.69 90.17 0)
+			(at 60.96 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8798,7 +8798,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-			(at 62.23 101.6 0)
+			(at 63.5 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8809,7 +8809,7 @@
 			)
 		)
 		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
-			(at 59.69 95.25 0)
+			(at 60.96 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8869,7 +8869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 234.95 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -8929,7 +8929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2d902e4-9a77-43b7-8999-6aa2a8362e34")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR026"
 			(at 167.64 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -8989,7 +8989,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "#PWR022")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -9007,7 +9007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd091c9d-048e-4e42-ab21-45728b01b24d")
-		(property "Reference" "C20"
+		(property "Reference" "C21"
 			(at 154.94 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9029,7 +9029,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 152.0952 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9071,7 +9071,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/26c4a07f-ed19-488c-9a38-27aa14829dda"
-					(reference "C20")
+					(reference "C21")
 					(unit 1)
 				)
 			)

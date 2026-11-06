@@ -2691,7 +2691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "008944ed-5748-4157-a257-6f2abfe27de4")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0111"
 			(at 203.2 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2751,7 +2751,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0104")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -2791,7 +2791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 53.0352 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2850,7 +2850,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "099b6715-f599-4080-86b5-3cd3d83d6f27")
-		(property "Reference" "R36"
+		(property "Reference" "R39"
 			(at 208.788 34.544 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2870,7 +2870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -2912,7 +2912,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R36")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -2930,7 +2930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bb10828-508b-458a-b638-4e61e43ace46")
-		(property "Reference" "C42"
+		(property "Reference" "C43"
 			(at 110.49 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2952,7 +2952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 107.6452 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2994,7 +2994,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "C42")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -3012,7 +3012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17aa157c-c69a-4ab3-bea9-7dae7b40c6ee")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0108"
 			(at 106.68 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3072,7 +3072,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0101")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -3090,7 +3090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b318e49-44d3-4947-b09c-b99d54021816")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0103"
 			(at 52.07 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3150,7 +3150,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0100")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -3168,7 +3168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b884888-a020-465b-90e5-f3700db2d9a3")
-		(property "Reference" "R35"
+		(property "Reference" "R36"
 			(at 97.79 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3188,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 97.79 66.548 90)
 			(hide yes)
 			(show_name no)
@@ -3230,7 +3230,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R35")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -3248,7 +3248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22b94719-9949-4f23-8c93-1d74d4b4df71")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0112"
 			(at 222.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -3308,7 +3308,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0103")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -3326,7 +3326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25926483-0f64-4790-8c80-cd49145d320e")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0107"
 			(at 106.68 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3386,7 +3386,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR099")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -3404,7 +3404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41acafab-5621-48d3-bb5f-9239b8332a8f")
-		(property "Reference" "R41"
+		(property "Reference" "R38"
 			(at 201.93 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3426,7 +3426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 197.612 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -3468,7 +3468,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R41")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -3486,7 +3486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ec6a0c8-c9c8-4c19-ad9c-4f0c3086d6e5")
-		(property "Reference" "R42"
+		(property "Reference" "R34"
 			(at 87.63 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3506,7 +3506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 87.63 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -3548,7 +3548,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R42")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -3567,7 +3567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52ae3cc0-b744-4133-87d1-fe944cb6bdb1")
-		(property "Reference" "J9"
+		(property "Reference" "J11"
 			(at 76.2 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3587,7 +3587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 76.2 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -3635,7 +3635,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "J9")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -3653,7 +3653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "565dd72b-0294-4dc8-a83c-f9f7d83c21ba")
-		(property "Reference" "R34"
+		(property "Reference" "R33"
 			(at 43.18 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3673,7 +3673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.18 66.548 90)
 			(hide yes)
 			(show_name no)
@@ -3715,7 +3715,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R34")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -3733,7 +3733,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "574f0ddb-2e5e-45b0-a706-d8193acd495c")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0110"
 			(at 199.39 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3793,7 +3793,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0107")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -3811,7 +3811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59c72f1b-61f4-40be-b211-a7ad023c7a52")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0113"
 			(at 226.06 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3871,7 +3871,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0105")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -3889,7 +3889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67b4ee17-0a97-4c25-8059-06d6bc5c4865")
-		(property "Reference" "R40"
+		(property "Reference" "R37"
 			(at 201.93 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3911,7 +3911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 197.612 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -3953,7 +3953,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R40")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -3972,7 +3972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89c18b0e-cc12-49bf-b6bf-fb218d236dd9")
-		(property "Reference" "J12"
+		(property "Reference" "J10"
 			(at 71.12 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3992,7 +3992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 71.12 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4034,7 +4034,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "J12")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -4053,7 +4053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "931ae962-fecc-40d7-ab5e-93b0da48b6d0")
-		(property "Reference" "J10"
+		(property "Reference" "J12"
 			(at 184.15 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4073,7 +4073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 184.15 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -4133,7 +4133,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "J10")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -4151,7 +4151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "934439a3-8c2f-4ef5-a429-cb4456c1b570")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0101"
 			(at 43.18 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -4211,7 +4211,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR096")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -4229,7 +4229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94ef8ba5-1626-4139-bf10-c3745810521f")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0102"
 			(at 43.18 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4289,7 +4289,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR097")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -4307,7 +4307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4cf2b2a-3742-4ee9-9e70-aab3c8e9a001")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0106"
 			(at 97.79 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -4367,7 +4367,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0102")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -4385,7 +4385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24d692a-54e6-4a2a-82c4-061965d310cc")
-		(property "Reference" "R33"
+		(property "Reference" "R35"
 			(at 97.79 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4405,7 +4405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 97.79 34.798 90)
 			(hide yes)
 			(show_name no)
@@ -4447,7 +4447,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R33")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -4465,7 +4465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba2a9984-6eef-4258-be3b-a58f49bb766b")
-		(property "Reference" "C40"
+		(property "Reference" "C42"
 			(at 110.49 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4487,7 +4487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 107.6452 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -4529,7 +4529,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "C40")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -4547,7 +4547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6cf6040-6ae5-44ae-be64-5803f08fb93c")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0104"
 			(at 63.5 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4607,7 +4607,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR098")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -4626,7 +4626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddbbb39a-2415-42e9-8586-d96c0e521172")
-		(property "Reference" "J11"
+		(property "Reference" "J13"
 			(at 194.31 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4646,7 +4646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 194.31 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4694,7 +4694,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "J11")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -4712,7 +4712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df19c76b-e811-42f9-9eb0-544c1c608e0c")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0109"
 			(at 199.39 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4772,7 +4772,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0106")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -4791,7 +4791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e41627e2-00ac-4b48-9fa1-3090b82bcd1d")
-		(property "Reference" "J8"
+		(property "Reference" "J9"
 			(at 33.02 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4811,7 +4811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 33.02 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4865,7 +4865,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "J8")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -4883,7 +4883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec1dc42f-0993-4889-b248-37279be09d82")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0105"
 			(at 81.28 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4943,7 +4943,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "#PWR0108")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -4960,7 +4960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f56d3229-2e7f-4e33-9555-2456a3eb43ce")
-		(property "Reference" "R38"
+		(property "Reference" "R42"
 			(at 209.042 49.784 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4980,7 +4980,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -5022,7 +5022,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R38")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -5039,7 +5039,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "facb7f0d-ace8-49c6-bca5-9f824fd7a616")
-		(property "Reference" "R37"
+		(property "Reference" "R40"
 			(at 208.788 39.624 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5059,7 +5059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 44.958 90)
 			(hide yes)
 			(show_name no)
@@ -5101,7 +5101,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R37")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -5118,7 +5118,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fafc770b-4fe7-40b6-ab3a-02971e4f7d74")
-		(property "Reference" "R39"
+		(property "Reference" "R41"
 			(at 208.788 44.704 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5138,7 +5138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 50.038 90)
 			(hide yes)
 			(show_name no)
@@ -5180,7 +5180,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/5507e757-805f-4e41-b1f3-9c79386287c8"
-					(reference "R39")
+					(reference "R41")
 					(unit 1)
 				)
 			)
