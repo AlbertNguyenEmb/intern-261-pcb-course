@@ -5171,7 +5171,7 @@
 		)
 		(uuid "3bfadcd2-f9fd-480a-8fd3-9109334aee27")
 	)
-	(label "ESD_P"
+	(label "DBG_MCU_USB_P"
 		(at 201.93 68.58 0)
 		(effects
 			(font
@@ -5301,7 +5301,7 @@
 		)
 		(uuid "94117239-92a8-4573-8a39-212798767ae8")
 	)
-	(label "ESD_P"
+	(label "DBG_MCU_USB_P"
 		(at 161.29 172.72 0)
 		(effects
 			(font
@@ -5351,7 +5351,7 @@
 		)
 		(uuid "b2cd78e8-6e18-4390-b046-ea45ca34300e")
 	)
-	(label "ESD_P"
+	(label "DBG_MCU_USB_P"
 		(at 186.69 78.74 0)
 		(effects
 			(font
@@ -5371,7 +5371,7 @@
 		)
 		(uuid "be533594-b995-496e-9ea0-a8c175812f23")
 	)
-	(label "ESD_N"
+	(label "DBG_MCU_USB_N"
 		(at 161.29 175.26 0)
 		(effects
 			(font
@@ -5401,7 +5401,7 @@
 		)
 		(uuid "d0a851b3-ad20-4485-9b57-8ebd3484aef3")
 	)
-	(label "ESD_N"
+	(label "DBG_MCU_USB_N"
 		(at 186.69 76.2 0)
 		(effects
 			(font

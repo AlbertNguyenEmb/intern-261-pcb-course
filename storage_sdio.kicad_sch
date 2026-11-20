@@ -1478,7 +1478,7 @@
 		)
 		(uuid "d27fdb43-2757-4ff3-bb57-5280629ce4ea")
 	)
-	(global_label "SD_D1"
+	(global_label "SDIO_D1"
 		(shape input)
 		(at 101.6 80.01 0)
 		(fields_autoplaced yes)
@@ -1502,7 +1502,7 @@
 			)
 		)
 	)
-	(global_label "SD_D1"
+	(global_label "SDIO_D1"
 		(shape input)
 		(at 171.45 102.87 0)
 		(fields_autoplaced yes)
@@ -1526,7 +1526,7 @@
 			)
 		)
 	)
-	(global_label "SD_D3"
+	(global_label "SDIO_D3"
 		(shape input)
 		(at 101.6 64.77 0)
 		(fields_autoplaced yes)
@@ -1550,7 +1550,7 @@
 			)
 		)
 	)
-	(global_label "SD_D2"
+	(global_label "SDIO_D2"
 		(shape input)
 		(at 226.06 71.12 0)
 		(fields_autoplaced yes)
@@ -1574,7 +1574,7 @@
 			)
 		)
 	)
-	(global_label "SD_D0"
+	(global_label "SDIO_D0"
 		(shape input)
 		(at 171.45 88.9 0)
 		(fields_autoplaced yes)
@@ -1598,7 +1598,7 @@
 			)
 		)
 	)
-	(global_label "SD_D0"
+	(global_label "SDIO_D0"
 		(shape input)
 		(at 101.6 77.47 0)
 		(fields_autoplaced yes)
@@ -1622,7 +1622,7 @@
 			)
 		)
 	)
-	(global_label "SD_CLK"
+	(global_label "SDIO_CK"
 		(shape input)
 		(at 101.6 72.39 0)
 		(fields_autoplaced yes)
@@ -1646,7 +1646,7 @@
 			)
 		)
 	)
-	(global_label "SD_D2"
+	(global_label "SDIO_D2"
 		(shape input)
 		(at 101.6 62.23 0)
 		(fields_autoplaced yes)
@@ -1670,7 +1670,7 @@
 			)
 		)
 	)
-	(global_label "SD_D3"
+	(global_label "SDIO_D3"
 		(shape input)
 		(at 226.06 90.17 0)
 		(fields_autoplaced yes)
@@ -1694,7 +1694,7 @@
 			)
 		)
 	)
-	(global_label "SD_CMD"
+	(global_label "SDIO_CMD"
 		(shape input)
 		(at 101.6 67.31 0)
 		(fields_autoplaced yes)
@@ -1718,7 +1718,7 @@
 			)
 		)
 	)
-	(global_label "SD_CMD"
+	(global_label "SDIO_CMD"
 		(shape input)
 		(at 171.45 71.12 0)
 		(fields_autoplaced yes)

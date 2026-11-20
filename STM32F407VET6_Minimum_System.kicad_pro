@@ -515,6 +515,63 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power_Trunk",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.6,
+        "tuning_profile": "",
+        "via_diameter": 0.7,
+        "via_drill": 0.35,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power_Local",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.35,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Digital_Bus",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -522,7 +579,96 @@
     },
     "net_colors": {},
     "netclass_assignments": {},
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "+5V_SYS"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "+5V_DBG_USB"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "/power_supply/+12V"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "/power_supply/+12V_PROT"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "/power_supply/+5V_EXT"
+      },
+      {
+        "netclass": "Power_Trunk",
+        "pattern": "/onboard_debugger/VBUS_DBG_RAW"
+      },
+      {
+        "netclass": "Power_Local",
+        "pattern": "+3V3_DBG"
+      },
+      {
+        "netclass": "Power_Local",
+        "pattern": "/STM32F407VET6_Minimum_System/+3V3_A"
+      },
+      {
+        "netclass": "Power_Local",
+        "pattern": "/precision_ADC/ADC_AVDD"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "SDIO_*"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "SPI2_*"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "I2C1_*"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_REF_CLK"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_RXD?"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_TXD?"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_CRS_DV"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_TX_EN"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_MDC"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "ETH_MDIO"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "TARGET_SWDIO"
+      },
+      {
+        "netclass": "Digital_Bus",
+        "pattern": "TARGET_SWCLK"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {

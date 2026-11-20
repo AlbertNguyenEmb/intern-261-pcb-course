@@ -2391,7 +2391,7 @@
 		)
 		(uuid "dff9d86c-44df-4a37-b255-6ae3e5134416")
 	)
-	(global_label "PWM4"
+	(global_label "TIM1_CH4"
 		(shape input)
 		(at 212.09 53.34 0)
 		(fields_autoplaced yes)
@@ -2415,7 +2415,7 @@
 			)
 		)
 	)
-	(global_label "TIMER_IN"
+	(global_label "TIM2_CAPTURE"
 		(shape input)
 		(at 97.79 120.65 0)
 		(fields_autoplaced yes)
@@ -2463,7 +2463,7 @@
 			)
 		)
 	)
-	(global_label "PWM3"
+	(global_label "TIM1_CH3"
 		(shape input)
 		(at 212.09 48.26 0)
 		(fields_autoplaced yes)
@@ -2487,7 +2487,7 @@
 			)
 		)
 	)
-	(global_label "PWM2"
+	(global_label "TIM1_CH2"
 		(shape input)
 		(at 212.09 43.18 0)
 		(fields_autoplaced yes)
@@ -2535,7 +2535,7 @@
 			)
 		)
 	)
-	(global_label "PWM1"
+	(global_label "TIM1_CH1"
 		(shape input)
 		(at 212.09 38.1 0)
 		(fields_autoplaced yes)
@@ -2559,7 +2559,7 @@
 			)
 		)
 	)
-	(global_label "ENC_A"
+	(global_label "TIM4_ENC_A"
 		(shape input)
 		(at 218.44 120.65 0)
 		(fields_autoplaced yes)
@@ -2583,7 +2583,7 @@
 			)
 		)
 	)
-	(global_label "ENC_B"
+	(global_label "TIM4_ENC_B"
 		(shape input)
 		(at 218.44 152.4 0)
 		(fields_autoplaced yes)
