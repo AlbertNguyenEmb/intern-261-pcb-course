@@ -2943,6 +2943,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Dev in future"
+		(exclude_from_sim no)
+		(at 186.182 24.384 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "ebba4ad0-099c-4801-a8d8-6e36ee15b43f")
+	)
 	(junction
 		(at 49.53 41.91)
 		(diameter 0)
@@ -2978,12 +2990,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85e44ae2-bca8-4ead-8e09-0cdd34056bce")
-	)
-	(junction
-		(at 170.18 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8f2bd33f-3236-409a-988a-298870cbe1a1")
 	)
 	(junction
 		(at 33.02 90.17)
@@ -3808,16 +3814,6 @@
 			(type default)
 		)
 		(uuid "b6c3bbcf-718e-40e2-a13e-55b70ac6b1cc")
-	)
-	(wire
-		(pts
-			(xy 170.18 52.07) (xy 170.18 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b869edb4-5127-47a2-b08b-924310e13571")
 	)
 	(wire
 		(pts
