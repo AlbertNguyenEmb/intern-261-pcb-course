@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.4
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -206,7 +212,12 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.15,
+        0.2,
+        0.35
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -233,7 +244,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -525,14 +541,14 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "Power_Trunk",
+        "name": "Digital_Bus",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.6,
+        "track_width": 0.2,
         "tuning_profile": "",
-        "via_diameter": 0.7,
-        "via_drill": 0.35,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -563,14 +579,14 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "Digital_Bus",
+        "name": "Power_Trunk",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.6,
         "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.35,
         "wire_width": 6
       }
     ],
@@ -922,7 +938,7 @@
         "uuid": "ee92e84a-722c-443a-8d04-d193c9464e89"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-144,BZ1,C1-58,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-4,F_DBG_USB1,J1-16,JP1-15,L1-2,Q1-3,R1-63,SW1-5,U1-17,Y1-6",
+    "used_designators": "#FLG1-2,#PWR1-145,BZ1,C1-58,C_DHT1,C_LIGHT1,C_OLED1,D1-11,F1-2,FB1-4,F_DBG_USB1,J1-16,JP1-15,L1-2,Q1-3,R1-63,SW1-5,T1,U1-17,Y1-6",
     "variants": []
   },
   "sheets": [

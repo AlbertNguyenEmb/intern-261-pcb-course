@@ -5,7 +5,7 @@
 	(uuid "c3754313-40b0-424f-af15-8f1560d82ff9")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector:Barrel_Jack"
+		(symbol "DCJ200-10-A-XX-K_REVA:DCJ200-10-A-XX-K_REVA"
 			(pin_names
 				(offset 1.016)
 			)
@@ -15,48 +15,28 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at 0 5.334 0)
+				(at -7.6272 5.0848 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" "Barrel_Jack"
-				(at 0 -5.08 0)
+			(property "Value" "DCJ200-10-A-XX-K_REVA"
+				(at -7.6313 -5.0875 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" ""
-				(at 1.27 -1.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 -1.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "DC Barrel Jack"
+			(property "Footprint" "DCJ200-10-A-XX-K_REVA:GCT_DCJ200-10-A-XX-K_REVA"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -65,9 +45,10 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 				)
 			)
-			(property "ki_keywords" "DC power barrel jack connector"
+			(property "Datasheet" "https://s3.amazonaws.com/snapeda/datasheet/DCJ200-10-A-K1-K_Global_Connector_Technology.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -76,9 +57,10 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 				)
 			)
-			(property "ki_fp_filters" "BarrelJack*"
+			(property "Description" "Power Barrel Connector Jack 2.05mm ID (0.081\"), 5.50mm OD (0.217\") Through Hole, Right Angle"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -87,26 +69,100 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 				)
 			)
-			(symbol "Barrel_Jack_0_1"
-				(rectangle
-					(start -5.08 3.81)
-					(end 5.08 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
+			(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/DCJ200-10-A-K1-K_Global_Connector_Technology.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
 					)
-					(fill
-						(type background)
-					)
+					(justify bottom)
 				)
+			)
+			(property "MANUFACTURER" "Global Connector Technology"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "11 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MPN" "DCJ200-10-A-K1-K"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SOURCE_URL" "https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "DCJ200-10-A-XX-K_REVA_0_0"
 				(polyline
 					(pts
-						(xy -3.81 -2.54) (xy -2.54 -2.54) (xy -1.27 -1.27) (xy 0 -2.54) (xy 2.54 -2.54) (xy 5.08 -2.54)
+						(xy -5.715 3.81) (xy -1.27 3.81)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -114,86 +170,211 @@
 					)
 				)
 				(arc
-					(start -3.302 1.905)
-					(mid -3.9343 2.54)
-					(end -3.302 3.175)
+					(start -5.715 1.27)
+					(mid -6.9794 2.54)
+					(end -5.715 3.81)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
 						(type none)
-					)
-				)
-				(arc
-					(start -3.302 1.905)
-					(mid -3.9343 2.54)
-					(end -3.302 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 3.683 3.175)
-					(end -3.302 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
 					)
 				)
 				(polyline
 					(pts
-						(xy 5.08 2.54) (xy 3.81 2.54)
+						(xy -3.81 -1.27) (xy -4.445 -2.54)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-			)
-			(symbol "Barrel_Jack_1_1"
+				(polyline
+					(pts
+						(xy -3.175 -2.54) (xy -3.81 -1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 4.445) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.81) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -5.715 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy 0 0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 4.445) (xy -1.27 4.445)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.635) (xy 0 4.445)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -3.175 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -0.508 -1.27) (xy 0.508 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(pin passive line
-					(at 7.62 2.54 180)
-					(length 2.54)
+					(at 5.08 2.54 180)
+					(length 5.08)
 					(name ""
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 2.54)
+					(at 5.08 -2.54 180)
+					(length 5.08)
 					(name ""
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -2298,6 +2479,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff4be013-4d17-4ff9-bcdb-c334dc21468c")
+	)
+	(no_connect
+		(at 60.96 55.88)
+		(uuid "62b898fa-c6d7-4013-936a-c572b03f38bb")
 	)
 	(no_connect
 		(at 111.76 120.65)
@@ -4708,86 +4893,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Barrel_Jack")
-		(at 53.34 55.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b22a44f5-01be-4880-8dd1-9f071a77e6fd")
-		(property "Reference" "J3"
-			(at 53.34 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Barrel_Jack"
-			(at 53.34 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 54.61 56.896 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 54.61 56.896 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "DC Barrel Jack"
-			(at 53.34 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "804b5649-89ef-4e75-8561-f613f1301e25")
-		)
-		(pin "1"
-			(uuid "32242ef2-a751-4abc-9a11-922c5dc8e471")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/a1a27ae1-62b8-4ba2-b58a-69d83d7aab63"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 99.06 71.12 0)
 		(unit 1)
@@ -5371,6 +5476,176 @@
 			(project "STM32F407VET6_Minimum_System"
 				(path "/a1a27ae1-62b8-4ba2-b58a-69d83d7aab63"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DCJ200-10-A-XX-K_REVA:DCJ200-10-A-XX-K_REVA")
+		(at 55.88 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2ce24c5-9ade-493d-8a3a-4afbd0e82535")
+		(property "Reference" "J3"
+			(at 52.6443 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DC-JACK"
+			(at 52.6443 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DCJ200-10-A-XX-K_REVA:GCT_DCJ200-10-A-XX-K_REVA"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://s3.amazonaws.com/snapeda/datasheet/DCJ200-10-A-K1-K_Global_Connector_Technology.pdf"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Description" "Power Barrel Connector Jack 2.05mm ID (0.081\"), 5.50mm OD (0.217\") Through Hole, Right Angle"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/DCJ200-10-A-K1-K_Global_Connector_Technology.pdf"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Global Connector Technology"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "11 mm"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MPN" "DCJ200-10-A-K1-K"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SOURCE_URL" "https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "2a2009f1-a1cb-41aa-95f2-f41853710d89")
+		)
+		(pin "3"
+			(uuid "de4cf2c5-1ec3-4560-88d0-fb3eae1259fe")
+		)
+		(pin "2"
+			(uuid "a003a7b5-5e63-49f1-aaf8-099cb8d35548")
+		)
+		(instances
+			(project "STM32F407VET6_Minimum_System"
+				(path "/a1a27ae1-62b8-4ba2-b58a-69d83d7aab63"
+					(reference "J3")
 					(unit 1)
 				)
 			)

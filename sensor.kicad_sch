@@ -221,6 +221,256 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "DM-OLED096-636:DM-OLED096-636"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -7.62 10.922 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "DM-OLED096-636"
+				(at -7.62 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "DM-OLED096-636:MODULE_DM-OLED096-636"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" "https://snapeda.s3.amazonaws.com/datasheets1361-DM-OLED096-636_Datasheet.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Description" "0.96” 128 X 64 MONOCHROME GRAPHIC OLED DISPLAY MODULE - I2C"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "DATASHEET_URL" "https://snapeda.s3.amazonaws.com/datasheets1361-DM-OLED096-636_Datasheet.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Display Module"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "11.3 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MPN" "DM-OLED096-636"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "2018-09-10"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "Package"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SOURCE_URL" "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "DM-OLED096-636_0_0"
+				(rectangle
+					(start -7.62 -7.62)
+					(end 7.62 10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "VCC_IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -516,175 +766,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Display_Graphic:ER_OLEDM0.91_1x-I2C"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "ER_OLEDM0.91_1x-I2C"
-				(at 14.224 -10.668 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
-				(at 18.034 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
-				(at 42.672 -14.732 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SSD1306 OLED module, 0.91 inch, 128x32, I2C"
-				(at 26.67 -16.764 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "EastRising"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "ER?OLEDM0.91?1x?I2C*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "ER_OLEDM0.91_1x-I2C_1_1"
-				(rectangle
-					(start -7.62 7.62)
-					(end 7.62 -7.62)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at 0 -10.16 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 10.16 270)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input clock
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Sensor:AM2302"
+		(symbol "Sensor:DHT11"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -700,7 +782,7 @@
 					)
 				)
 			)
-			(property "Value" "AM2302"
+			(property "Value" "DHT11"
 				(at 3.81 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -710,7 +792,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Sensor:ASAIR_AM2302_P2.54mm_Vertical"
+			(property "Footprint" "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -721,7 +803,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "http://akizukidenshi.com/download/ds/aosong/AM2302.pdf"
+			(property "Datasheet" "http://akizukidenshi.com/download/ds/aosong/DHT11.pdf"
 				(at 3.81 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -732,7 +814,7 @@
 					)
 				)
 			)
-			(property "Description" "3.3 to 5.0V, Temperature and humidity module,  DHT22, AM2302"
+			(property "Description" "3.3V to 5.5V, temperature and humidity module, DHT11"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -754,7 +836,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "ASAIR*AM2302*P2.54mm*"
+			(property "ki_fp_filters" "Aosong*DHT11*5.5x12.0*P2.54mm*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -765,7 +847,7 @@
 					)
 				)
 			)
-			(symbol "AM2302_0_1"
+			(symbol "DHT11_0_1"
 				(rectangle
 					(start -5.08 5.08)
 					(end 5.08 -5.08)
@@ -778,7 +860,7 @@
 					)
 				)
 			)
-			(symbol "AM2302_1_1"
+			(symbol "DHT11_1_1"
 				(pin power_in line
 					(at 0 7.62 270)
 					(length 2.54)
@@ -800,7 +882,7 @@
 				(pin bidirectional line
 					(at 7.62 0 180)
 					(length 2.54)
-					(name "SDA"
+					(name "DATA"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -815,10 +897,11 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -7.62 90)
+				(pin no_connect line
+					(at -5.08 0 0)
 					(length 2.54)
-					(name "GND"
+					(hide yes)
+					(name "NC"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -833,10 +916,9 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin power_in line
 					(at 0 -7.62 90)
 					(length 2.54)
-					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -1487,18 +1569,6 @@
 		)
 		(uuid "4ecf8e80-0dd1-4605-9883-b80d1e43352f")
 	)
-	(text "HEADER_EXPANSION\n"
-		(exclude_from_sim no)
-		(at 243.078 49.784 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "b0880ee5-b6fe-4571-8dbb-b951cad3f9eb")
-	)
 	(text "DHT_SENSOR"
 		(exclude_from_sim no)
 		(at 178.816 38.608 0)
@@ -1510,18 +1580,6 @@
 			)
 		)
 		(uuid "fc9a20c0-1a70-49f5-a4c5-0ecd4adf0440")
-	)
-	(junction
-		(at 80.01 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "019f3b3d-dff2-4c05-94e9-7cf5b9e73da7")
-	)
-	(junction
-		(at 62.23 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d93c123-efce-488c-b142-e6db8d2e8a85")
 	)
 	(junction
 		(at 165.1 54.61)
@@ -1541,16 +1599,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 60.96) (xy 246.38 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01ef40d5-21e3-4b47-b0da-70e6e8418bec")
-	)
-	(wire
-		(pts
 			(xy 165.1 81.28) (xy 165.1 86.36)
 		)
 		(stroke
@@ -1558,16 +1606,6 @@
 			(type default)
 		)
 		(uuid "0b65ebbf-2273-4638-af10-4fc64069a0d2")
-	)
-	(wire
-		(pts
-			(xy 241.3 72.39) (xy 246.38 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d2588bf-e7f2-4cbf-a1fa-a61e1cb2c6b9")
 	)
 	(wire
 		(pts
@@ -1611,26 +1649,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 72.39) (xy 246.38 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "411eb386-80a3-4db3-b68e-f5f53dc7cac0")
-	)
-	(wire
-		(pts
-			(xy 241.3 100.33) (xy 246.38 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "469b3c0a-0926-4b97-9a36-60426e3fa6b3")
-	)
-	(wire
-		(pts
 			(xy 191.77 74.93) (xy 191.77 83.82)
 		)
 		(stroke
@@ -1641,16 +1659,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 88.9) (xy 246.38 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47904e03-bad7-43e0-a763-ccb54acbdb66")
-	)
-	(wire
-		(pts
 			(xy 234.95 127) (xy 234.95 137.16)
 		)
 		(stroke
@@ -1658,16 +1666,6 @@
 			(type default)
 		)
 		(uuid "522dd2ac-0db5-4e00-8133-425b17a34802")
-	)
-	(wire
-		(pts
-			(xy 241.3 92.71) (xy 246.38 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "556b7993-a419-497f-8cf3-8e42ad30a28f")
 	)
 	(wire
 		(pts
@@ -1691,7 +1689,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 121.92) (xy 190.5 128.27)
+			(xy 200.66 125.73) (xy 200.66 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1701,7 +1699,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 140.97) (xy 180.34 140.97)
+			(xy 207.01 139.7) (xy 200.66 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1731,16 +1729,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 95.25) (xy 246.38 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8641c7d3-b5e8-471a-83c6-3ebf3e5deb29")
-	)
-	(wire
-		(pts
 			(xy 191.77 57.15) (xy 191.77 67.31)
 		)
 		(stroke
@@ -1748,16 +1736,6 @@
 			(type default)
 		)
 		(uuid "8769febd-7bf4-4cc7-963f-a8ee12bf5f1c")
-	)
-	(wire
-		(pts
-			(xy 241.3 97.79) (xy 246.38 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a8b326b-77b7-4b05-bfc7-e685dc582e8f")
 	)
 	(wire
 		(pts
@@ -1771,7 +1749,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 148.59) (xy 190.5 154.94)
+			(xy 200.66 144.78) (xy 200.66 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1781,17 +1759,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 69.85) (xy 246.38 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2895470-259e-45f3-a903-5b646dcef697")
-	)
-	(wire
-		(pts
-			(xy 173.99 135.89) (xy 180.34 135.89)
+			(xy 207.01 137.16) (xy 200.66 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1861,16 +1829,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 67.31) (xy 246.38 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d997f31b-5334-418c-85bc-98d0958b3f23")
-	)
-	(wire
-		(pts
 			(xy 80.01 57.15) (xy 80.01 63.5)
 		)
 		(stroke
@@ -1898,26 +1856,6 @@
 			(type default)
 		)
 		(uuid "e7af74bd-4757-4cb4-8f44-04a86b6859f0")
-	)
-	(wire
-		(pts
-			(xy 241.3 64.77) (xy 246.38 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e947bda2-6cd7-49f2-81ea-03d540902d63")
-	)
-	(wire
-		(pts
-			(xy 246.38 100.33) (xy 246.38 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef54ef90-e691-460f-bb80-950f6d0422d0")
 	)
 	(wire
 		(pts
@@ -1949,31 +1887,6 @@
 		)
 		(uuid "fdaaa56e-6ed1-42ec-ab41-075ff4c47cbe")
 	)
-	(global_label "USART1_TX"
-		(shape input)
-		(at 246.38 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left)
-		)
-		(uuid "107d2ac6-9249-4625-ac7d-8a76a7834cdf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.3761 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DHT_DATA"
 		(shape input)
 		(at 133.35 73.66 180)
@@ -1998,94 +1911,19 @@
 			)
 		)
 	)
-	(global_label "I2C1_SCL"
-		(shape input)
-		(at 246.38 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left)
-		)
-		(uuid "2b4be730-74a5-4bad-81ef-04ca74e8264f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.7389 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "I2C1_SDA"
 		(shape input)
-		(at 246.38 69.85 0)
+		(at 207.01 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.1588)
 			)
 			(justify left)
-		)
-		(uuid "3ab4c579-2501-40af-a45b-28a25b8bacb5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.7994 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "USART1_RX"
-		(shape input)
-		(at 246.38 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left)
-		)
-		(uuid "557e4785-85cd-4dae-8639-1fab5ec8f690")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.6785 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "I2C1_SDA"
-		(shape input)
-		(at 173.99 140.97 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
 		)
 		(uuid "70866686-7520-41a8-b3f9-286798d05779")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.5706 140.97 0)
+			(at 218.8247 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2093,23 +1931,23 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
 	(global_label "I2C1_SCL"
 		(shape input)
-		(at 173.99 135.89 180)
+		(at 207.01 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "7cda21d2-203d-4e81-9154-d10e70ac2f5f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.6311 135.89 0)
+			(at 218.7642 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2117,7 +1955,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -2214,6 +2052,95 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Sensor:DHT11")
+		(at 165.1 73.66 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01b09538-5123-4dbd-a5cb-db168186c8d4")
+		(property "Reference" "U9"
+			(at 171.45 72.3899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DHT11"
+			(at 171.45 74.9299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
+			(at 165.1 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://akizukidenshi.com/download/ds/aosong/DHT11.pdf"
+			(at 161.29 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "3.3V to 5.5V, temperature and humidity module, DHT11"
+			(at 165.1 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7e085e1f-04c4-4d4c-a6fe-77f3f071c731")
+		)
+		(pin "4"
+			(uuid "ff54d1b2-1f13-4bd3-85f5-0ef6c4d5d0ba")
+		)
+		(pin "2"
+			(uuid "244a2536-2fc0-443a-94ee-613ab48fed46")
+		)
+		(pin "3"
+			(uuid "f4b255f8-c395-4916-8b37-706f3f3b06bd")
+		)
+		(instances
+			(project "STM32F407VET6_Minimum_System"
+				(path "/40a68624-3908-44e0-9624-f480ce63061d"
+					(reference "U9")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2538,172 +2465,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensor:AM2302")
-		(at 165.1 73.66 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "34da944b-9bab-4928-8220-29a788aacf18")
-		(property "Reference" "U9"
-			(at 171.45 72.3899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "AM2302"
-			(at 171.45 74.9299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Sensor:ASAIR_AM2302_P2.54mm_Vertical"
-			(at 165.1 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://akizukidenshi.com/download/ds/aosong/AM2302.pdf"
-			(at 161.29 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "3.3 to 5.0V, Temperature and humidity module,  DHT22, AM2302"
-			(at 165.1 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6a53e095-96d1-4824-bed7-73bea51dea0f")
-		)
-		(pin "2"
-			(uuid "c29deaf2-fc80-4d5e-a35a-490e07665a8b")
-		)
-		(pin "4"
-			(uuid "185b8cb0-70f2-4489-bb24-5d4bcb443ebe")
-		)
-		(pin "3"
-			(uuid "01810971-4253-4aae-8ab6-67c7ac73e23a")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 246.38 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "36778280-3717-4080-a4bf-7f1b6ae0c80f")
-		(property "Reference" "#PWR066"
-			(at 246.38 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 80.01 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "842055cf-54d5-4598-91f6-e06cedcf535c")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR066")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 191.77 83.82 0)
 		(unit 1)
@@ -2715,7 +2476,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ad386b1-9059-48c9-a5c4-56cb76bea1ff")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR060"
 			(at 191.77 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2775,7 +2536,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR062")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -2860,8 +2621,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 246.38 88.9 0)
+		(lib_id "DM-OLED096-636:DM-OLED096-636")
+		(at 187.96 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2870,10 +2631,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6ba99c1b-85d3-48f1-9a5a-5b370255af96")
-		(property "Reference" "#PWR067"
-			(at 246.38 92.71 0)
-			(hide yes)
+		(uuid "3bdb44a3-7215-416c-9e30-7dc42b31b47d")
+		(property "Reference" "U10"
+			(at 187.96 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2882,8 +2642,8 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 246.38 83.82 0)
+		(property "Value" "DM-OLED096-636"
+			(at 187.96 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2892,8 +2652,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 246.38 88.9 0)
+		(property "Footprint" "DM-OLED096-636:DM-OLED096-636"
+			(at 187.96 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2901,10 +2661,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
-			(at 246.38 88.9 0)
+		(property "Datasheet" "https://snapeda.s3.amazonaws.com/datasheets1361-DM-OLED096-636_Datasheet.pdf"
+			(at 187.96 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2912,10 +2673,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 246.38 88.9 0)
+		(property "Description" "0.96” 128 X 64 MONOCHROME GRAPHIC OLED DISPLAY MODULE - I2C"
+			(at 187.96 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2923,15 +2685,121 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 			)
+		)
+		(property "DATASHEET_URL" "https://snapeda.s3.amazonaws.com/datasheets1361-DM-OLED096-636_Datasheet.pdf"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Display Module"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "11.3 mm"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MPN" "DM-OLED096-636"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "2018-09-10"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "Package"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SOURCE_URL" "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 187.96 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "3"
+			(uuid "5ac0cf25-bb3e-49bd-963a-91421fac3695")
+		)
+		(pin "2"
+			(uuid "590c08a8-d7a9-4dc0-aa7d-d15e9a9b8455")
 		)
 		(pin "1"
-			(uuid "887b32a4-8cd6-4f91-9ab3-acf765d457ac")
+			(uuid "93abd348-916b-46ef-9641-a27609ce7ff4")
+		)
+		(pin "4"
+			(uuid "aaa3badd-bab1-4960-bf77-11796c31259d")
 		)
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR067")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -3014,180 +2882,6 @@
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
 					(reference "C_OLED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 236.22 95.25 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ae47956-ccb0-428e-9bd5-1ae76315dbd9")
-		(property "Reference" "J5"
-			(at 236.22 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 236.22 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 236.22 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 236.22 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "37670b49-399c-40db-acb2-1c34a692b205")
-		)
-		(pin "1"
-			(uuid "247756fa-8266-47c7-8015-27c8722639a7")
-		)
-		(pin "2"
-			(uuid "8d8aa79d-1657-4929-a317-dfc4a52e51c9")
-		)
-		(pin "4"
-			(uuid "8ee8bae9-b0e4-425b-92ab-692d3fae26ec")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 236.22 67.31 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90aec792-975b-4d40-aa9a-4789b5315fb2")
-		(property "Reference" "J4"
-			(at 236.22 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 236.22 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 236.22 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 236.22 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "50dfebbe-a82d-4512-b6ce-4a3bfe4c86d3")
-		)
-		(pin "1"
-			(uuid "2fe61079-bbf1-4816-b9a7-f3b7328ce8c4")
-		)
-		(pin "2"
-			(uuid "b62303e9-5ee1-4c39-839b-49c4ea540e7a")
-		)
-		(pin "4"
-			(uuid "d58c9fea-d4e7-41d4-8690-0e44c7fc61a3")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -3428,84 +3122,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 246.38 102.87 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "add840f3-7ac2-456d-9f1a-23b6ff9366f8")
-		(property "Reference" "#PWR068"
-			(at 246.38 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8b2e5c25-36a8-4be7-ae7f-d60c49a5534a")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR068")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 80.01 67.31 0)
 		(unit 1)
@@ -3660,84 +3276,6 @@
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
 					(reference "#PWR058")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 246.38 60.96 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c3ef04f7-088b-47dd-847a-ed708b427dc0")
-		(property "Reference" "#PWR065"
-			(at 246.38 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 246.38 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 246.38 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4b06c48a-e7c9-43ce-a028-798154a9cfd2")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -4061,7 +3599,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 190.5 121.92 0)
+		(at 200.66 125.73 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4071,8 +3609,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef87c63b-bebb-408d-853d-9ca8ca835067")
-		(property "Reference" "#PWR059"
-			(at 190.5 125.73 0)
+		(property "Reference" "#PWR061"
+			(at 200.66 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4083,7 +3621,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 190.5 116.84 0)
+			(at 200.66 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4093,7 +3631,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 121.92 0)
+			(at 200.66 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4104,7 +3642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 121.92 0)
+			(at 200.66 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4115,7 +3653,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 190.5 121.92 0)
+			(at 200.66 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4131,7 +3669,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR059")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -4221,7 +3759,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 154.94 0)
+		(at 200.66 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4231,8 +3769,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3434061-7bc8-45fd-923f-15f21b626204")
-		(property "Reference" "#PWR060"
-			(at 190.5 161.29 0)
+		(property "Reference" "#PWR062"
+			(at 200.66 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4243,7 +3781,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 160.02 0)
+			(at 200.66 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4253,7 +3791,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 154.94 0)
+			(at 200.66 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4264,7 +3802,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 154.94 0)
+			(at 200.66 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4275,7 +3813,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 154.94 0)
+			(at 200.66 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4291,7 +3829,7 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR060")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -4403,7 +3941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f87519cb-37d6-4b96-9016-479f94b3b0bf")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR059"
 			(at 191.77 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -4463,143 +4001,10 @@
 		(instances
 			(project "STM32F407VET6_Minimum_System"
 				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "#PWR061")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "Display_Graphic:ER_OLEDM0.91_1x-I2C")
-		(at 190.5 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa113a82-bef2-4540-96ee-57f5b4e64d9d")
-		(property "Reference" "U10"
-			(at 199.39 137.1599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ER_OLEDM0.91_1x-I2C"
-			(at 199.39 139.6999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
-			(at 208.534 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
-			(at 233.172 153.162 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SSD1306 OLED module, 0.91 inch, 128x32, I2C"
-			(at 217.17 155.194 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d011de29-8bf3-4462-897b-ab5bfbe0017e")
-		)
-		(pin "3"
-			(uuid "acf76bc3-b78e-4bd5-8b04-17694e4e3049")
-		)
-		(pin "4"
-			(uuid "dda97ba8-075d-43e1-bd05-74dd756ef55f")
-		)
-		(pin "2"
-			(uuid "dccc12d0-5601-45cb-bbd0-d9d3f65b54f3")
-		)
-		(instances
-			(project "STM32F407VET6_Minimum_System"
-				(path "/40a68624-3908-44e0-9624-f480ce63061d"
-					(reference "U10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(group ""
-		(uuid "a75448e9-db4f-466b-8412-a6c89c982ce0")
-		(members "019f3b3d-dff2-4c05-94e9-7cf5b9e73da7" "01ef40d5-21e3-4b47-b0da-70e6e8418bec"
-			"03a1f981-b2d5-4768-841c-bb9c338e4ca6" "083a4ca4-a033-4f90-bf21-a8fe8c36ae9a"
-			"0b65ebbf-2273-4638-af10-4fc64069a0d2" "0d2588bf-e7f2-4cbf-a1fa-a61e1cb2c6b9"
-			"0e9812b1-bcbc-41a6-873a-d9120945bad3" "107d2ac6-9249-4625-ac7d-8a76a7834cdf"
-			"12712003-6953-4874-9222-13543590e781" "13a89157-4bc4-4abc-b759-06b9550e74a2"
-			"14bd2ebf-648a-4442-ad0a-dfd9ecf3858a" "187370c9-12a9-42ff-92c5-90bcf91f93f7"
-			"1bb1e17a-c041-43ee-bd88-d389a23b3f7c" "267e07a5-1286-4f63-80ae-cf603aa2422c"
-			"2b4be730-74a5-4bad-81ef-04ca74e8264f" "2d93c123-efce-488c-b142-e6db8d2e8a85"
-			"36778280-3717-4080-a4bf-7f1b6ae0c80f" "3ab4c579-2501-40af-a45b-28a25b8bacb5"
-			"3ad386b1-9059-48c9-a5c4-56cb76bea1ff" "3af17b5a-99ee-4ce6-9881-09d1a5914c7e"
-			"411eb386-80a3-4db3-b68e-f5f53dc7cac0" "469b3c0a-0926-4b97-9a36-60426e3fa6b3"
-			"470fe508-da7f-4ab6-a8c2-6a04bf8e5217" "47904e03-bad7-43e0-a763-ccb54acbdb66"
-			"4dd352cf-6bfd-4a24-9720-e06ddf2d00f2" "4ecf8e80-0dd1-4605-9883-b80d1e43352f"
-			"522dd2ac-0db5-4e00-8133-425b17a34802" "540a163e-e151-438a-a08f-9e594e2df6dd"
-			"556b7993-a419-497f-8cf3-8e42ad30a28f" "557e4785-85cd-4dae-8639-1fab5ec8f690"
-			"6ba99c1b-85d3-48f1-9a5a-5b370255af96" "6cba8f5d-30bb-48b5-be11-4dc0930b424a"
-			"70866686-7520-41a8-b3f9-286798d05779" "72732786-d574-4cbf-8d06-e0781984650a"
-			"7894cda0-58fd-454a-b5b9-646728ed980d" "7939eb1c-9b52-4b46-81e5-13b6406341bb"
-			"7cda21d2-203d-4e81-9154-d10e70ac2f5f" "8156ec94-7ee2-4bb7-a52c-426bdd2b5357"
-			"841dce6a-5b22-4172-95f7-f0d35370c298" "85231dc0-7d1d-4f3e-894f-00389057fb67"
-			"8641c7d3-b5e8-471a-83c6-3ebf3e5deb29" "8769febd-7bf4-4cc7-963f-a8ee12bf5f1c"
-			"8a8b326b-77b7-4b05-bfc7-e685dc582e8f" "95b94df9-0b20-4bec-8377-7b11630ef3a8"
-			"99ac628b-750e-4a40-aa6b-d910f719d336" "9e28deda-f862-4f7b-a473-6c8f191759fd"
-			"a0db5569-48ed-4e50-ab52-ac40e8d73d03" "a10ce4b8-f5b7-49a9-b35a-a85303325071"
-			"a1cefc4a-4e87-4d0e-97c9-e0039a719f6f" "a2895470-259e-45f3-a903-5b646dcef697"
-			"a55ea493-6ab4-4c24-9d22-bd8f5fc7b73e" "ab016902-e0aa-4d61-970d-5c663ec154a4"
-			"add840f3-7ac2-456d-9f1a-23b6ff9366f8" "b01b5f90-89fc-427e-b288-13acf5a65038"
-			"b0880ee5-b6fe-4571-8dbb-b951cad3f9eb" "b7ed7f0a-d67e-441d-a087-b142dc229406"
-			"b82b3e75-52e3-43b9-8539-719ce8230ca2" "b8c9f739-6036-4331-995f-bea622babce1"
-			"b9a26422-309f-4adf-94f8-3d4958e4691f" "c23082e3-8d0a-4924-ad99-6de1e105f1f2"
-			"c3ef04f7-088b-47dd-847a-ed708b427dc0" "c80b3c2a-1621-4781-90e2-d3872ce66d6a"
-			"ca14c133-d2bd-43ea-95b5-b89eb503df54" "d7af7101-7ca6-47c6-b8d5-e73a778d1693"
-			"d997f31b-5334-418c-85bc-98d0958b3f23" "e2143c74-0103-4238-8b9f-4fb3772c330a"
-			"e4e75406-71d5-44eb-acdf-16f7055cf80b" "e727f8ae-7dde-436e-b76e-8ffe87ac0a94"
-			"e72b7533-4b5f-42d5-ba10-e0db5f2d010d" "e773a886-dcdb-4994-b08d-a7dc7f842587"
-			"e7af74bd-4757-4cb4-8f44-04a86b6859f0" "e947bda2-6cd7-49f2-81ea-03d540902d63"
-			"ef54ef90-e691-460f-bb80-950f6d0422d0" "ef87c63b-bebb-408d-853d-9ca8ca835067"
-			"f244a0ae-f664-452d-a4db-c374eea8141e" "f2f4e979-e414-4191-be64-cf2dd38d3f3e"
-			"f3434061-7bc8-45fd-923f-15f21b626204" "f87519cb-37d6-4b96-9016-479f94b3b0bf"
-			"fc9a20c0-1a70-49f5-a4c5-0ecd4adf0440" "fdaaa56e-6ed1-42ec-ab41-075ff4c47cbe"
-			"fe2ac7bf-d088-4415-9e83-efa2b773af9f"
 		)
 	)
 	(sheet_instances

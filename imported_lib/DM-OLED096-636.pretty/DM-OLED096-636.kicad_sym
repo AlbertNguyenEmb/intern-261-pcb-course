@@ -7,7 +7,7 @@
     (property "Value" "DM-OLED096-636" (id 1) (at -7.62 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Footprint" "DM-OLED096-636:MODULE_DM-OLED096-636" (id 2) (at 0 0 0)
+    (property "Footprint" "EducationKIT_OLED:DM-OLED096-636" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "https://snapeda.s3.amazonaws.com/datasheets1361-DM-OLED096-636_Datasheet.pdf" (id 3) (at 0 0 0)

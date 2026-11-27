@@ -1,0 +1,8 @@
+(version 1)
+
+# Connector's own unplated peg hole against its two adjacent GND pads.
+# Other copper and all perimeter edges retain the board defaults.
+(rule "J1 alignment peg to its adjacent pads"
+  (condition "(A.memberOfFootprint('J1') && B.memberOfFootprint('J1')) && ((A.Pad_Type == 'NPTH, mechanical' && (B.Pad_Number == 'A12' || B.Pad_Number == 'B1')) || (B.Pad_Type == 'NPTH, mechanical' && (A.Pad_Number == 'A12' || A.Pad_Number == 'B1')))")
+  (constraint edge_clearance (min 0.40mm))
+)

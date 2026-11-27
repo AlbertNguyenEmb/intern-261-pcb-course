@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EducationKIT_OLED")(type "KiCad")(uri "${KIPRJMOD}/imported_lib/DM-OLED096-636.pretty")(options "")(descr "DM-OLED096-636 OLED module with NPTH mounting holes"))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/imported_lib/DM-OLED096-636.pretty")(options "")(descr "Project footprint with STEP model"))
+  (lib (name "WE-RJ45_7499410213")(type "KiCad")(uri "${KIPRJMOD}/imported_lib/WE-RJ45_7499410213.pretty")(options "")(descr "Project footprint with STEP model"))
+  (lib (name "EducationKIT_Packages")(type "KiCad")(uri "${KIPRJMOD}/imported_lib/EducationKIT_Packages.pretty")(options "")(descr "Education KIT package variants"))
+  (lib (name "DCJ200-10-A-XX-K_REVA")(type "KiCad")(uri "${KIPRJMOD}/imported_lib/DCJ200-10-A-XX-K_REVA.pretty")(options "")(descr "Project DC barrel jack with STEP model"))
+)
